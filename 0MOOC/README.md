@@ -10,7 +10,7 @@
   3. 解决方案：先背下来再说
 
 - Gitbook 无法关联到Github
- 1. 问题：提示还没有“发表” ，not publicaly readable
+ 1. 问题：提示还没有“发表” ，not publicly readable
  2. 分析：需要提交或发表
  3. 尝试1:网页编辑器上找不到publish按钮，下载了桌面版gitbook editor.
  4. 问题2:新建的文件在编辑界面有publish按钮，从网页上clone的文件只有同步按钮。工具里的push目测也只能实现同步功能。
