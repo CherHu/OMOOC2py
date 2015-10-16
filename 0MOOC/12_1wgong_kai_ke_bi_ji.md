@@ -1,5 +1,5 @@
-# 公开课摘记(二）
-##by DAMA   20151015
+# Note(二）
+####by DAMA   20151015
 
 
 ## Top 3 to keep in mind:
