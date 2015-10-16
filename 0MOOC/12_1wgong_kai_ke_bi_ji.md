@@ -1,5 +1,5 @@
-# Note (2）
-####by DAMA   20151015
+# OMOOC | Note (2）
+**20151015**
 
 
 ## Top 3 to keep in mind:
@@ -7,5 +7,5 @@
 
 
 
-##阅读推荐
+##Resource
 - 《Github入门与实践》 http://book.douban.com/subject/26462816/
