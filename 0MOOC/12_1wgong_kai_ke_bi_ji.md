@@ -8,7 +8,7 @@
  - 有趣未必有种。
  - 有种可以有趣，皆大欢喜。
 - **思维：思考之维度。**
-  - 好的问题自己能生成答案。－[5W1H](http://wiki.woodpecker.org.cn/moin/5W1H)
+  - 好的问题（[5W1H](http://wiki.woodpecker.org.cn/moin/5W1H)）自己能生成答案。
   - “输出是更残酷的输入”。
   - 抓主要矛盾，方能不乱。
 - **慎独**：
@@ -16,7 +16,9 @@
  - 将目标意图的大饼砍成disirable difficulty的执行意图。
  - Then, 大写的ACTION!
 
+亟待解决问题：tobecontinued
 
+结论：思维在前，编程在后。
 
 ##Resource
 - 《Github入门与实践》 http://book.douban.com/subject/26462816/
