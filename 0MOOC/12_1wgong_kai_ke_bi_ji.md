@@ -2,7 +2,7 @@
 **20151015**
 
 
-## Good points top 3::
+## Good points top 3:
 - 
 
 
