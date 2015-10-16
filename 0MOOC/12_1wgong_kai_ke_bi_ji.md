@@ -20,9 +20,8 @@
 > **感触：思维在前，编程在后。**
 
 ##亟待解决问题:了解Github生态
-- who：github新用户。摸索中注册了github,安装了gitbook,关联之，仍处于盲人摸象状态。
+- who：Mac os，github新用户。摸索中注册了github,安装了gitbook,关联之，仍处于盲人摸象状态。
 - when：本周（20151017内）
-- Where：Mac os
 - what：明了提交作业路径，实现与学员互动。
 - why：节省在微信群、邮件列表、芝麻星和github中来回穿梭的时间。
 - How：
