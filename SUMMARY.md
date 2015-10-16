@@ -4,7 +4,7 @@
    * Go pythonic
 * [1、教学反转](0MOOC/README.md)
    * [1.1  0wNote](0MOOC/0wnotemd.md)
-   * [1.2 1wNote](0MOOC/1wnote.md)
+   * [1.2 1wNote](0MOOC/1wnotemd.md)
 * [2、基础旋进](1sTry/README.md)
 * [3、迭代作品](2nDev/README.md)
 * [4、人生首秀](3rDemo/README.md)
