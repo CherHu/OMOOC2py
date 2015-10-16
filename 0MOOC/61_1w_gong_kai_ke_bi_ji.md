@@ -1,11 +1,12 @@
-# Note (1)
-#### by DAMA 20101010
+# 0MOOC ｜ 课堂摘记（1）
 
-##Resource:
-- Get to know github:
+ **20151010**
+ 
+ 
+##Resource
+- Get to know github
 
 https://help.github.com/articles/github-flavored-markdown/
-
-- Ask smart questions:
+- How to ask smart questions?
 
 http://wiki.woodpecker.org.cn/moin/5W1H
