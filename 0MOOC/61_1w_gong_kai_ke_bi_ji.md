@@ -1,4 +1,5 @@
-
+# 公开课摘记（一）
+#### by DAMA 20101010
 
 ##Resource:
 - Get to know github:
