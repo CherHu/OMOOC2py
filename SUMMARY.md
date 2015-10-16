@@ -3,7 +3,7 @@
 * [Introduction](README.md)
    * Go pythonic
 * [1、教学反转](0MOOC/README.md)
-   * [6.1 1w 公开课笔记](0MOOC/61_1w_gong_kai_ke_bi_ji.md)
+   * [1.1  1w 公开课笔记](0MOOC/61_1w_gong_kai_ke_bi_ji.md)
 * [2、基础旋进](1sTry/README.md)
 * [3、迭代作品](2nDev/README.md)
 * [4、人生首秀](3rDemo/README.md)
