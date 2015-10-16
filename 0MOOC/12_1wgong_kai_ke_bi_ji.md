@@ -2,7 +2,7 @@
 **20151015**
 
 
-## Top 3 to keep in mind:
+## Good points top 3::
 - 
 
 
