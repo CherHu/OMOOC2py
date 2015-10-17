@@ -34,5 +34,6 @@
 
 ## Resource
 
-《Github入门与实践》 http://book.douban.com/subject/26462816/
+- [documentations](file:///Users/cher/Downloads/documentation.pdf)
+- 《Github入门与实践》 http://book.douban.com/subject/26462816/
 
