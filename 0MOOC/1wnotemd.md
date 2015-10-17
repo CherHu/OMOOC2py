@@ -34,6 +34,6 @@
 
 ## Resource
 
-- [Gitbook documentations](file:///Users/cher/Downloads/documentation.pdf)
+- [Gitbook documentations](https://www.gitbook.com/book/gitbookio/documentation/details)
 - 《Github入门与实践》 http://book.douban.com/subject/26462816/
 
