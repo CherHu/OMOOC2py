@@ -10,5 +10,5 @@
 * [4、人生首秀](3rDemo/README.md)
 * [5、代码 (_src)](_src/README.md)
 * [6 、素材 (draft)](draft/README.md)
-* [6、有关](ABOUT.md)
+* [7、有关](ABOUT.md)
 
