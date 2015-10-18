@@ -10,7 +10,6 @@
 * [4、人生首秀](3rDemo/README.md)
 * [5、代码 (_src)](_src/README.md)
 * [5.1 素材 (draft)](draft/README.md)
-   * [教程该怎么写](draft/how2tutorial.md)
    * 5.2 参考书目
 * [6、有关](ABOUT.md)
 
