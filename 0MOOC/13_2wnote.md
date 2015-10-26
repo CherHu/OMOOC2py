@@ -90,3 +90,17 @@ So, "Keep clam and **be UTF-8.**"
 - DAMA's design collection, including the .png in 《极简python上手导念》。
 
  ![](Screen Shot 2015-10-26 at 14.54.00.png)
+ 
+ 
+### python脚本原模版
+  ![](Screen Shot 2015-10-26 at 15.09.16.png)
+- 头部说明（固定的）：
+    - ＃-*- coding: utf-8 -*- 
+    - ＃!/user/bin/env python
+    - ＃文件说明，作者信息，版本自述……（参考github上排名靠前的模块）
+- 全局引用：
+   - import sys
+   >import是python里做的不太好的一个方面，so:
+   1、import 内置模块
+   2、import 第三方模块
+   3、import 自己工程里的模块
