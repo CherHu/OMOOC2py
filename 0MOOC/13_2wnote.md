@@ -12,7 +12,7 @@
 
 #### 探索：
 
-- help()——REPL中，python内置了帮助。学习最快的方式
+- help()——REPL中，python内置了帮助。学习的最快方式。
 
     - e.g range:生成数组的常用工具 ［具体使用参考help（range)]
 
@@ -39,7 +39,7 @@
    >import是python里做的不太好的一个方面，so:
    1、import 内置模块
    2、import 第三方模块
-   3、import 自己工程里的模块
+   3、import 自己工程里的模块。
 - 全局变量
 - 函数撰写
 - 自检区
@@ -87,7 +87,7 @@
 > **不麻烦人的都不应该麻烦……**
 
 ### 四、一些技能小星星
-#### UTF-8的故事
+#### 1、UTF-8的故事
 部分演化史：
 - ASC II(128个字符，英文环境）
 - Unicode（符号集，100多万种字符）
@@ -98,7 +98,7 @@
 So, "Keep clam and **be UTF-8.**" 
 
 
-#### 善用搜索
+#### 2、善用搜索
 - 如何搜索图片其他副本?
 
 > e.g 《极简python上手导念》
@@ -108,7 +108,15 @@ So, "Keep clam and **be UTF-8.**"
 - DAMA's design collection, including the .png in 《极简python上手导念》。
 
  ![](Screen Shot 2015-10-26 at 14.54.00.png)
- 
+
+### 五、日颂三遍，开智不醉：
+- use the force
+- 靠谱：以最小代价解决问题
+- 核心目标：提问——破壁
+- 初级知识需要对高级知识深入了解才能真正深入了解。
+
+
+
 ————————————————————
 
 附录：
@@ -116,10 +124,6 @@ So, "Keep clam and **be UTF-8.**"
 ### the zen of python
 ![](Screen Shot 2015-10-26 at 15.43.42.png)
 ### 八荣八耻
-![](Screen Shot 2015-10-26 at 15.44.01.png)
+![](Screen Shot 2015-10-26 at 16.26.01.png)
 
-### 日颂三遍，开智不醉：
-- use the force
-- 靠谱：以最小代价解决问题
-- 核心目标：提问——破壁
-- 初级知识需要对高级知识深入了解才能真正深入了解。
+
