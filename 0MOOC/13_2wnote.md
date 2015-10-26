@@ -1,12 +1,25 @@
-# 1.3 2wNote 
+# 0MOOC ｜ 2wNote
 
- REPL:交互探索环境
+ **20151022**
+ ## 
+###CLI：
+- 感触：交互来得如此之快！
+- 对策：无他，唯手熟尔。
+    - [Introduction to the Apple OS X command line.](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
+    - [A-Z index of Apple OS X command line.](http://ss64.com/osx/)
+
+###Python原模版:
+- 感触：看到原模版之前，我只知道有头，不知道必须有尾，虽然《极简python入手导念》上赫然写着，又一次可耻的视而不见。公开课＋上周末C2T2培炎教练解释，方知其作用和必要性。那么，python是否还有其他类似的功能代码？
+- 扩展：新手写函数常感同无米之炊，[python的内建函数](http://www.wklken.me/posts/2013/03/16/python-base-builtins.html)也是必要的工具，先做查阅，逐渐熟记。
 
 
 
-搬运如下：
+### 笨办法是好办法
+- 感触：当dama的每个操作都看上去那么新奇和好玩时，必须笨办法搬运之。
+- 对策：see below.
 
-——————————————
+
+—————————————笨办法分割线——————————————
 ### 一、什么是REPL
 ####描述 :输入什么，立即有什么输出反应
 - read:读入
@@ -60,7 +73,7 @@
 - 技术操作
     - raw_input()  从外界收到数据
     - while+break  用while进行就保持住了输入、交互；break来退出
-    - os.path.exists 本地文件是否存在。详见官方文档？？
+    - os.path.exists 本地文件是否存在。详见[官方文档](http://www.wklken.me/posts/2013/03/16/python-base-builtins.html)。
     - open() 打开文件。内建的函数，随时可以用。
     - for...in  回读时的 for in 循环，in的对象是很任性的……
     
