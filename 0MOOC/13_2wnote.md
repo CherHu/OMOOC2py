@@ -104,3 +104,8 @@ So, "Keep clam and **be UTF-8.**"
    1、import 内置模块
    2、import 第三方模块
    3、import 自己工程里的模块
+- 全局变量
+- 函数撰写
+- 自检区
+    - if ____name__ == '____main__' :
+    *调用模块时不会调用 if __name__ == '__main__'以下的代码*
