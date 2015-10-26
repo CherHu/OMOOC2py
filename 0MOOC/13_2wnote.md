@@ -86,7 +86,7 @@
         - rm mydaily.log
         
     - 调用
-        - cat mydaly.log
+        - cat mydaily.log
         - python main.py
     - 目录
     
