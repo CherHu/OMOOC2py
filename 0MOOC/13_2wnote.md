@@ -81,6 +81,12 @@ So, "Keep clam and **be UTF-8.**"
 
 
 ### 善用搜索
-- 如何搜索图片其他副本？
-    - 快照
-    - 七牛
+- 如何搜索图片其他副本?
+
+> e.g 《极简python上手导念》
+- 快照 
+- 七牛 bitbucket.org TW
+
+- DAMA's design collection, including the .png in 《极简python上手导念》。
+
+ ![](Screen Shot 2015-10-26 at 14.54.00.png)
