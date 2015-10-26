@@ -1,14 +1,16 @@
 # 0MOOC ｜ Note
 
- **20151010**
  
+ DAMA曰：
  
-##Resource
-- Get to know github
+**编程思维**的培养必须要编程。
 
-https://help.github.com/articles/github-flavored-markdown/
-- How to ask smart questions?
+靠谱行为的基础只能是**靠谱**。
 
-http://wiki.woodpecker.org.cn/moin/5W1H
+**提问**是获得技能的唯一起点。
+
+教练价值源自你真诚的**行动**。
+
+**合意阻滞**是学习的最佳动力。
 
 
