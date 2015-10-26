@@ -9,7 +9,7 @@
     - [A-Z index of Apple OS X command line.](http://ss64.com/osx/)
 
 ###Python原模版:
-- 感触：原模版之前，虽然《极简python入手导念》上也赫然写着自检区代码，又一次可耻的视而不见。公开课＋上周末C2T2培炎教练解释，方知其作用和必要性。那么，python是否还有其他类似的功能代码？
+- 感触：原模版之前，虽然《极简python入手导念》上也赫然写着自检区代码，又一次可耻地视而不见。公开课＋上周末C2T2培炎教练解释，方知其作用和必要性。那么，python是否还有其他类似的功能代码？
 - 扩展：新手写函数常感同无米之炊，[python的内建函数](http://www.wklken.me/posts/2013/03/16/python-base-builtins.html)也是必要的工具，先做查阅，逐渐熟记。
 
 
