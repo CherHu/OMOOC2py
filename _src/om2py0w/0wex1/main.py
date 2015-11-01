@@ -12,38 +12,38 @@ def GetTime():
     print ("Now it is:", localtime)
     return localtime
 
-＃ 写日记函数
+# 写日记函数
 def writeDiary():
     localtime = GetTime()
     diary = open(filename,'a+')
     diary.write(localtime +'\n')
 
     while True:
-    	print "Press RETURN to continue writing. Input 'end' to quit."
-    	dailydiary = raw_input('Here we go.>>')
+        print "Press RETURN to continue writing. Input 'end' to quit."
+        dailydiary = raw_input('Here we go.>>')
 
-    	if dailydiary.upper() in ['end','END']:
-    	    break
-    	diary.write(dailydiary +'\n')
+        if dailydiary.upper() in ['end','END']:
+            break
+        diary.write(dailydiary +'\n')
 
-＃读取日记函数
+# 读取日记函数
 def readHistory():
     history = open (filename,'r')
     print history.read()
     history.close()
 
-＃调用写日记函数
+# 调用写日记函数
 print "Hey, wanna talk?"
 writeDiary()
 
-＃调用读取日记函数
+# 调用读取日记函数
 print """
-	Hey there. Wanna review the history?
-	Input Y to continue. Input N to abort.
-	"""
-i = raw_input(" Y/N ")
+    Hey there. Wanna review the history?
+    Input Y to continue. Input N to abort.
+    """
+next = raw_input(" Y/N ")
 
-if i=='y' or 'Y':
+if 'y' in next or 'Y' in next:
     readHistory()
 
 else:
