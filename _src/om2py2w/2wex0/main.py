@@ -13,10 +13,9 @@ root = tk.Tk()
 root.title("CHER'S DIARY")
 
 def saveClick(self):
-	with open(os.getcwd()+'mydiary','w+') as file:
-	   file.write(text.get(0.0,'end)')) 
-	print self
-
+    f = open(os.getcwd()+'mydiary','w+')
+    f.write(self.text.get()) 
+	
 	
 def write():
     append_text(var.get())
