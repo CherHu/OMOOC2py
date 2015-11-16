@@ -13,8 +13,9 @@ root = tk.Tk()
 root.title("CHER'S DIARY")
 
 def saveClick(self):
-	with open(os.getcwd()+'mydiary','w+') as fb:
-	   fb.write(text.get(0.0,'end)')) 
+	with open(os.getcwd()+'mydiary','w+') as file:
+	   file.write(text.get(0.0,'end)')) 
+	print self
 
 	
 def write():
@@ -33,11 +34,11 @@ text_insert.pack()
 
 master.bind('<Return>',write)
 
-text_output=ScrolledText(master)
-text_output.pack()
+scrl=ScrolledText(master)
+scrl.pack()
 
 save=tk.Button(master, text="save",fg='magenta',command=saveClick)
-save.bind('<Command-S>',saveClick) # doesn't work yet
+save.bind('<Command-Key-S>',saveClick) # doesn't work yet
 save.pack()
 
 quit=tk.Button(master, text="close",fg='magenta', command=master.quit)
